@@ -1,7 +1,7 @@
 import React from "react"
-import Nav from "./Nav"
-import Main from "./Main"
-import Footer from "./Footer"
+import Nav from "./components/Nav"
+import Main from "./components/Main"
+import Footer from "./components/Footer"
 
 const App = () => (
     <div>
